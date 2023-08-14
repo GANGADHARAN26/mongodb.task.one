@@ -39,3 +39,4 @@ db.day1.find({$or:[{ product_color: "indigo" },{ product_price: 492.00 }]})
 
 //10.Delete the products which product price value are same
             
+// 10th question is not understandable
